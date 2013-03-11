@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//9Nw\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-11T23:51:57Z",
+      "side": 1,
+      "message": "Please remove all string with \u003d\u003e translatable\u003d\"false\"",
+      "revId": "e4de876b726f838cc051724763f0b0c67efd33f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9Ns\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-11T23:51:57Z",
+      "side": 1,
+      "message": "In N7000, it\u0027s \"Vidéo chaude\"\n\nhttps://github.com/CyanogenMod/android_device_samsung_n7000/blob/cm-10.1/DeviceSettings/res/values-fr/arrays.xml",
+      "revId": "e4de876b726f838cc051724763f0b0c67efd33f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9No\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-11T23:51:57Z",
+      "side": 1,
+      "message": "\"Vidéo froide\"",
+      "revId": "e4de876b726f838cc051724763f0b0c67efd33f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
