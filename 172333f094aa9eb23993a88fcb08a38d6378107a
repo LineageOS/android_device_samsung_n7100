@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//9Kk\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-12T00:46:43Z",
+      "side": 1,
+      "message": "Galerie, just one \"l\" :)",
+      "revId": "172333f094aa9eb23993a88fcb08a38d6378107a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
