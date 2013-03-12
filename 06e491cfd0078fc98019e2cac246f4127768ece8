@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//9L0\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Mw\u003d",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//9Ms\u003d",
         "filename": "DeviceSettings/res/values-fr/arrays.xml",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2013-03-12T00:04:45Z",
       "side": 1,
       "message": "here too :)",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9L4\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Ms\u003d",
       "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//9L8\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Mo\u003d",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//9Mg\u003d",
         "filename": "DeviceSettings/res/values-fr/arrays.xml",
         "patchSetId": 4
@@ -64,6 +118,24 @@
       "writtenOn": "2013-03-12T00:04:45Z",
       "side": 1,
       "message": "here too :)",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9MA\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Mg\u003d",
       "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,42 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//9ME\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Mk\u003d",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9Ls\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Mk\u003d",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//9Mc\u003d",
         "filename": "DeviceSettings/res/values-fr/arrays.xml",
         "patchSetId": 4
@@ -98,6 +206,24 @@
       "writtenOn": "2013-03-12T00:04:45Z",
       "side": 1,
       "message": "here too :)",
+      "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//9MM\u003d",
+        "filename": "DeviceSettings/res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-03-12T00:15:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//9Mc\u003d",
       "revId": "06e491cfd0078fc98019e2cac246f4127768ece8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
