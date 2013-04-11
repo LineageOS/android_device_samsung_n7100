@@ -34,6 +34,24 @@
       "revId": "d2fb7f09b56c9b0f119bc7c6a3fad404b5194603",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//8cM\u003d",
+        "filename": "DeviceSettings/res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 6020
+      },
+      "writtenOn": "2013-04-11T17:22:08Z",
+      "side": 1,
+      "message": "Both versions are ok... I prefer also \"Ajustes del Dispositivo\" instead of using the name of each device... But it\u0027s up to you!",
+      "parentUuid": "AAAAen//81Y\u003d",
+      "revId": "d2fb7f09b56c9b0f119bc7c6a3fad404b5194603",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
