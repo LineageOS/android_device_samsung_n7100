@@ -16,6 +16,24 @@
       "revId": "d6b351908242a80c7935362f401288231d41106c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//8Aw\u003d",
+        "filename": "DeviceSettings/res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 6020
+      },
+      "writtenOn": "2013-04-12T16:49:34Z",
+      "side": 1,
+      "message": "I like it!",
+      "parentUuid": "AAAAen//8C8\u003d",
+      "revId": "d6b351908242a80c7935362f401288231d41106c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
