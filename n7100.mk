@@ -99,8 +99,6 @@ PRODUCT_PACKAGES += \
     com.android.nfc_extras \
     Stk
 
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 # Samsung symbols
 PRODUCT_PACKAGES += \
     libsamsung_symbols
