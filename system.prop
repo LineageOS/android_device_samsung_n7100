@@ -1,9 +1,14 @@
 #
-# system.prop for smdk4x12
+# system.prop for n7100
 #
 
 dalvik.vm.dexopt-data-only=1
-rild.libpath=/system/lib/ril-wrapper.so
+dalvik.vm.dex2oat-Xmx=256m
+rild.libpath=/system/lib/libsecril-shim.so
 rild.libargs=-d /dev/ttyS0
 ro.sf.lcd_density=320
 ro.lcd_min_brightness=20
+ro.ril.telephony.mqanelements=5
+ro.egl.destroy_after_detach=true
+
+
