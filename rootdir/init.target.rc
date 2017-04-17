@@ -1,5 +1,5 @@
 on init
-    export LD_SHIM_LIBS /system/lib/libsec-ril.so|libsamsung_symbols.so:/system/bin/gpsd|libdmitry.so
+    export LD_SHIM_LIBS /system/lib/libsec-ril.so|libsamsung_symbols.so:/system/bin/gpsd|libdmitry.so:/system/lib/libgui.so|libshim_gpsd.so
     # Vibetonz
     export VIBE_PIPE_PATH /dev/pipes
     mkdir /dev/pipes 0771 shell shell
@@ -28,15 +28,17 @@ on post-fs-data
 on boot
 
 # cbd
-service cpboot-daemon /sbin/cbd -d -p 10
+service cpboot-daemon /system/bin/cbd -d -p 10
     class main
     user root
     group radio cache inet misc audio sdcard_rw log
+    seclabel u:r:cpboot-daemon:s0
 
 # Start GPS daemon
-service gps-daemon /system/bin/sh /system/bin/gps_daemon.sh
+service gpsd /system/bin/gpsd -c /system/etc/gps.xml
     class main
     socket gps seqpacket 0660 gps system
     user gps
     group system inet sdcard_rw gps
+    seclabel u:r:gpsd:s0
     ioprio be 0
