@@ -52,7 +52,6 @@ PRODUCT_PACKAGES += \
 # Gps
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/gps.xml:system/etc/gps.xml \
-    $(LOCAL_PATH)/gps_daemon.sh:system/bin/gps_daemon.sh
 
 # Product specific Packages
 PRODUCT_PACKAGES += \
@@ -62,7 +61,8 @@ PRODUCT_PACKAGES += \
 # RIL & GPS fix
 PRODUCT_PACKAGES += \
     ril-wrapper \
-    libdmitry
+    libdmitry \
+    libshim_gpsd
 
 # Additional apps
 PRODUCT_PACKAGES += \
