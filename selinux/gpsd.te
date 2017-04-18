@@ -1,3 +1,5 @@
+allow gpsd shell_exec:file { rx_file_perms entrypoint };
+
 #for text relocs & execution
 allow gpsd system_file:file { execute_no_trans execmod };
 allow gpsd gps_device:chr_file { getattr setattr };
@@ -8,7 +10,7 @@ allow gpsd node:udp_socket { node_bind name_bind };
 allow gpsd port:tcp_socket name_connect;
 allow gpsd self:tcp_socket { getopt write read };
 
-allow gpsd sysfs:file { setattr write };
+allow gpsd sysfs_gps:file rw_file_perms;
 allow gpsd gps_device:chr_file { ioctl open read write };
 allow gpsd gpsd:udp_socket { create bind };
 allow gpsd gpsd:tcp_socket { create connect };
