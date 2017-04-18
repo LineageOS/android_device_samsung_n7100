@@ -35,6 +35,9 @@
        LbsLocal="false"
        LbsServer="BCMLS2.glpals.com"
        LbsPort="7275"
+
+       SensorsEnable="false"
+
        LbsSyncLto="false"
        SyncLto="true"
        ltoFileName="lto2.dat"
